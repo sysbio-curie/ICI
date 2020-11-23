@@ -15,7 +15,9 @@ To run properly the notebooks, you need to install some packages. To avoid that,
 You can install all the packages that you need to run the notebooks locally. In a terminal, type the command described below and install all that is needed to run the analyses of the notebooks. 
 
 ## The model files
-The files of the model of the article are in (1) GINsim format (with the extension zginml) and must be run with the software that can be downloaded at this address: http://ginsim.org/downloads; and in (2) MaBoSS format (with the extension bnd for the model description and cfg for the definition of both the model parameters and the simulation parameters. 
+The files of the model of the article are in (1) GINsim format (with the extension zginml) and must be run with the software that can be downloaded at this address: http://ginsim.org/downloads; and in (2) MaBoSS format (with the extension bnd for the model description and cfg for the definition of both the model parameters and the simulation parameters. The stand-alone version of MaBoSS can be downloaded at this address: https://maboss.curie.fr/. 
+
+Note: The notebooks allow to simulate the model in GINsim and in MaBoSS without having to download them independently. 
 
 
 ## Use with binder
